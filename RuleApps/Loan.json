@@ -89,7 +89,15 @@
           "HowLong": 6.0,
           "IsOwner": true,
           "OwnershipPercent": "25PercentOrMore",
-          "OwnerMonthlyIncome": 500.0
+          "OwnerMonthlyIncome": 500.0,
+          "Income": {
+            "Base": 0.0,
+            "Overtime": 0.0,
+            "Bonus": 0.0,
+            "Commission": 0.0,
+            "MilitaryEntitlements": 0.0,
+            "Other": 0.0
+          }
         }
       ],
       "OtherIncome": [
