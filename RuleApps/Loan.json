@@ -1,6 +1,6 @@
 {
   "LenderLoanNumber": "123456789",
-  "Barrowers": [
+  "Borrowers": [
     {
       "First": "John",
       "Last": "Homeowner",
