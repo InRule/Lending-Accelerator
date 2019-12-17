@@ -1,0 +1,249 @@
+{
+  "LenderLoanNumber": "123456789",
+  "Barrowers": [
+    {
+      "First": "John",
+      "Last": "Homeowner",
+      "Middle": "A",
+      "SSN": "123456789",
+      "DateOfBirth": "1980-01-01T00:00:00",
+      "Citizenship": "Citizen",
+      "IsPrimary": true,
+      "MaritalStatus": "Married",
+      "Dependents": 2,
+      "DependentAges": "10, 14",
+      "HomePhone": "9992221234",
+      "CellPhone": "9993335678",
+      "WorkPhone": "9994449876",
+      "WorkPhoneExtension": "321",
+      "Email": "johnhomeowner@email.com",
+      "Addresses": [
+        {
+          "Line1": "175 13th Street",
+          "Line2": "Unit 1A",
+          "City": "Washington",
+          "State": "DC",
+          "Zipcode": "12345",
+          "Country": "USA",
+          "IsCurrent": true,
+          "HowManyYears": 1,
+          "AndMonths": 6,
+          "HousingExpense": "Rent",
+          "HousingExpenseAmount": 1500.0,
+          "IsMailing": true
+        },
+        {
+          "Line1": "123 Main Street",
+          "City": "Washington",
+          "State": "DC",
+          "Zipcode": "67890",
+          "Country": "USA",
+          "HowManyYears": 2,
+          "AndMonths": 10,
+          "HousingExpense": "Rent",
+          "HousingExpenseAmount": 1200.0
+        }
+      ],
+      "MilitaryServices": {
+        "ActiveDuty": true,
+        "ProjectedExperationOfService": "2020-12-01T00:00:00"
+      },
+      "LanguagePreference": "NoResponse",
+      "Employers": [
+        {
+          "Name": "US Army",
+          "Phone": "999222111",
+          "PositionTitle": "Intelligence",
+          "Address": {
+            "Line1": "1600 Pennsylviania Ave",
+            "City": "Washington",
+            "State": "DC",
+            "Zipcode": "20500",
+            "Country": "USA",
+            "IsCurrent": true
+          },
+          "StartDate": "2008-05-01T00:00:00",
+          "HowLong": 8.0,
+          "Income": {
+            "Base": 7680.0,
+            "Overtime": 0.0,
+            "Bonus": 0.0,
+            "Commission": 0.0,
+            "MilitaryEntitlements": 2700.0,
+            "Other": 0.0
+          }
+        },
+        {
+          "Name": "John A Homeowner Internet Sales",
+          "Phone": "9992221234",
+          "PositionTitle": "Owner/Operator",
+          "Address": {
+            "Line1": "175 13th St",
+            "City": "Washington",
+            "State": "DC",
+            "Zipcode": "12345",
+            "Country": "USA",
+            "IsCurrent": true
+          },
+          "StartDate": "2010-01-01T00:00:00",
+          "HowLong": 6.0,
+          "IsOwner": true,
+          "OwnershipPercent": "25PercentOrMore",
+          "OwnerMonthlyIncome": 500.0
+        }
+      ],
+      "OtherIncome": [
+        {
+          "Source": " InterestAndDividends",
+          "Amount": 100.0
+        }
+      ],
+      "OtherIncomeTotal": 0.0,
+      "MonthlyIncome": 0.0,
+      "Assets": [
+        {
+          "AssetType": "Checking",
+          "FinancialInstitution": "Treasurey CU",
+          "AccountNumber": "554466",
+          "Value": 9000.0
+        },
+        {
+          "AssetType": " MoneyMarket",
+          "FinancialInstitution": "Treasury CU",
+          "AccountNumber": "554468",
+          "Value": 100000.0
+        },
+        {
+          "AssetType": "Bonds",
+          "FinancialInstitution": "Treasury CU",
+          "AccountNumber": "554467",
+          "Value": 2500.0
+        },
+        {
+          "AssetType": "Savings",
+          "FinancialInstitution": "Valley Community Bank",
+          "AccountNumber": "371722",
+          "Value": 6000.0
+        }
+      ],
+      "AssetsTotal": 0.0,
+      "OtherAssets": [
+        {
+          "OtherAssetType": "EarnestMoney",
+          "Value": 10000.0
+        }
+      ],
+      "OtherAssetsTotal": 0.0,
+      "Liabilities": [
+        {
+          "LiabilityType": "Revolving",
+          "Company": "Visa",
+          "AccountNumber": "1111222233334444",
+          "UnpaidBalance": 13500.0,
+          "IsPaidPriorToClosing": false,
+          "MonthlyPayment": 50.0
+        },
+        {
+          "LiabilityType": "Revolving",
+          "Company": "Mastercard",
+          "AccountNumber": "9999888877776666",
+          "UnpaidBalance": 800.0,
+          "IsPaidPriorToClosing": false,
+          "MonthlyPayment": 35.0
+        },
+        {
+          "LiabilityType": "Open30Day",
+          "Company": "American Express",
+          "AccountNumber": "5555666644443333",
+          "UnpaidBalance": 2500.0,
+          "IsPaidPriorToClosing": true,
+          "MonthlyPayment": 0.0
+        },
+        {
+          "LiabilityType": "Revolving",
+          "Company": "Discover",
+          "AccountNumber": "7777888899990000",
+          "UnpaidBalance": 750.0,
+          "IsPaidPriorToClosing": false,
+          "MonthlyPayment": 40.0
+        }
+      ],
+      "LiabilitiesTotal": 0.0,
+      "LiabilitiesMonthlyTotal": 0.0,
+      "OtherLiabilities": [
+        {
+          "OtherLiabilityType": " ChildSupport",
+          "MonthlyPayment": 1200.0
+        }
+      ],
+      "OtherLiabilitiesMonthlyTotal": 0.0,
+      "PropertyDetail": {
+        "LoanAmount": 210000.0,
+        "LoanPurpose": "Purchase",
+        "Line1": "123 Anywhere Street",
+        "City": "Washington",
+        "State": "DC",
+        "Zipcode": "12345",
+        "Country": "USA",
+        "NumberOfUnits": 1.0,
+        "PropertyValue": 275000.0,
+        "OccupancyType": "PrimaryResidence",
+        "IsMixedUse": true,
+        "IsManufacturedHome": true,
+        "OtherMortgageLoans": [
+          {
+            "CreditorName": "Treasury CU",
+            "LienType": "SubordinateLien",
+            "MonthlyPayment": 50.0,
+            "LoanAmountToBeDrawn": 2500.0,
+            "CreditLimit": 10000.0
+          }
+        ],
+        "ExpectedRentalIncome": 0.0,
+        "ExpectedNetMontlyRentalIncome": 0.0,
+        "Gifts": [
+          {
+            "GiftType": "Cash",
+            "GiftSourceType": "Relative",
+            "Deposit": "Deposited",
+            "Value": 5000.0
+          }
+        ],
+        "WillBePrimary": true,
+        "OtherOwnershipLastThreeYears": false,
+        "DisclosedRelationshipWithSeller": false,
+        "DisclosedOtherBorrowing": false,
+        "DislcosedOtherBorrowingAmount": 0.0,
+        "DisclosedOtherLoanApplication": false,
+        "DisclosedOtherCreditApplication": false,
+        "DisclosedLien": false,
+        "DisclosedGuarantor": false,
+        "DisclosedJudgements": false,
+        "DisclosedFederalDebt": false,
+        "DisclosedConveyedTitle": false,
+        "DisclosedShortSale": false,
+        "DisclosedForclosure": false,
+        "DisclosedBankruptcy": false
+      },
+      "IsHispanicOrLatino": false,
+      "IsNotWishToProvideHispanic": true,
+      "IsMale": true,
+      "IsNotWishProvideSex": true,
+      "IsWhite": true,
+      "IsNotWishToDiscloseRace": true,
+      "EthnicityVisualObservationOrSurname": true,
+      "SexVisualObservationOrSurname": true,
+      "RaceVisualObservationOrSurname": true
+    }
+  ],
+  "OriginatorOrganizationName": "ABC Lender",
+  "OriginatorAddressLine1": "123 Note Rate Way",
+  "OriginatorCity": "Washington",
+  "OriginatorState": "DC",
+  "OriginatorZipcode": "12345",
+  "OriginatorName": "Larry Lender",
+  "OriginatorNMLSRID": "12345678",
+  "OriginatorStateLicNumber": "11111111",
+  "OriginatorEmail": "larrylender@email.com",
+  "OriginatorPhone": "9998887777"
+}
