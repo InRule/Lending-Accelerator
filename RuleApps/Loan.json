@@ -253,5 +253,8 @@
   "OriginatorNMLSRID": "12345678",
   "OriginatorStateLicNumber": "11111111",
   "OriginatorEmail": "larrylender@email.com",
-  "OriginatorPhone": "9998887777"
+  "OriginatorPhone": "9998887777",
+  "RequestAction": {
+    "RequestActionType": "Pre-Qualifcation"
+  }
 }
