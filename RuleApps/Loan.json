@@ -259,13 +259,13 @@
   },
   "PreQualEstimate": {
     "Name": "30 Year Fixed Fannie Mae",
-    "TermYears": 5,
-    "InterestRate": 0.00417,
+    "TermYears": 30,
+    "InterestRate": 5.0,
     "APR": 0.0,
     "FeeEstimate": 0.0,
     "MoneyDownEstimate": 0.0,
     "MonthlyPeriods": 0,
     "MonthlyPayment": 0.0,
-    "PresentValue": 15200.0
+    "PresentValue": 100000.0
   }
 }
