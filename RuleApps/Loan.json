@@ -266,6 +266,7 @@
     "MoneyDownEstimate": 0.0,
     "MonthlyPeriods": 0,
     "MonthlyPayment": 0.0,
-    "PresentValue": 100000.0
+    "PresentValue": 100000.0,
+    "Fees": 1000.0
   }
 }
