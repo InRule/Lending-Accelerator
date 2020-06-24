@@ -1,0 +1,11 @@
+{
+  "RequestAction": {},
+  "PropertyValuePrediction": {
+    "LotFrontage": "50",
+    "YearBuilt": "1980",
+    "GrLivArea": 1500,
+    "LotArea": 47000,
+    "Neighborhood": "CollgCr",
+    "SalePrice": "0"
+  }
+}
