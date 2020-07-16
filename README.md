@@ -10,5 +10,10 @@ This rule application demonstrates all of the basic strategies and patterns for 
 * APR calculation implementing the Newton Raphson (see the file APR_Formula.png).
 * DTI enforcement for conforming loans.
 
+## Predictions
+The rule application now includes a ML service that predicts a home price based on several key data points.  It's intended to be an example and it's based on a Kaggle data set (training data is included in the repo).
+
+Note that the service end-point for the ML service is hosted in Azure and may/may not be live.  
+
 
 
