@@ -1,0 +1,16 @@
+{
+  "ApplicantIncome": 4583.0,
+  "CoapplicantIncome": 1508.0,
+  "Credit_History": "1",
+  "Dependents": "1",
+  "Education": "Graduate",
+  "Gender": "Male",
+  "LoanAmount": 128.0,
+  "Loan_Amount_Term": "360",
+  "Married": "Yes",
+  "Property_Area": "Rural",
+  "Self_Employed": "No",
+  "PredictionRationale": {
+    "WinningPrediction": {}
+  }
+}
