@@ -7,7 +7,7 @@ This rule application demonstrates all of the basic strategies and patterns for 
 * A monthly payment calculation.
 * Monthly payment amortization.
 * Loan limit enforcement for single unit properties based on Fannie Mae's guidelines.
-* APR calculation implementing the Newton Raphson (see the file APR_Formula.png).
+* Transparent APR calculation.
 ![APR Formula](APR_Formula.png)
 * DTI enforcement for conforming loans.
 
